@@ -1,0 +1,1 @@
+__CI:__ [![Build status](https://ci.appveyor.com/api/projects/status/p4ystejbuaj6xb3q?svg=true)](https://ci.appveyor.com/project/Votgosh/selenide)
